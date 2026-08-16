@@ -62,9 +62,6 @@ Rock-Paper-Scissors-Game-Java/
 │   ├── ui/
 │   └── Main.java
 │
-├── bin/
-│   └── database/
-│
 ├── lib/
 │   └── sqlite-jdbc-3.53.2.0.jar
 │
